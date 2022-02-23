@@ -107,7 +107,8 @@
     background-color: #2b374b;
   }
   .sys-name {
-    font-size: 18px;
+    font-size: 120%;
+    font-weight: bold;
   }
 
   .box-card {
